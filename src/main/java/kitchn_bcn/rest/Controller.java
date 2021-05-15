@@ -14,7 +14,7 @@ import org.modelmapper.ModelMapper;
 // import org.modelmapper.convention.MatchingStrategies;
 
 @RestController
-@RequestMapping("/clients")
+@RequestMapping("/api")
 public class Controller {
 
   @Autowired
